@@ -8,6 +8,7 @@ Simple CLI game based on popular game "Pokemon" for GameBoy.
 Art is done with ASCII and simple interfaces for specific features. 
 Feature and content scope is limited.
 
+Project relies on library [lanterna](https://github.com/mabe02/lanterna/tree/master) which makes creating TUI's easier.
 
 ## TODO
 - Game Loop
